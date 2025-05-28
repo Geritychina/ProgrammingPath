@@ -37,6 +37,7 @@ Languages
 🎨 CSS3 – Responsible for styling and responsive layout design in web projects.
 
 Frameworks & Libraries
+
 ⚛️ React.js – A JavaScript library for building dynamic UIs; used in projects like OMDB Movie App, MAC_Linkedin, and Quote.
 
 🧱 .NET / .NET Core – Framework for building backend logic in enterprise-style applications such as InventoryManagement and HumanResource.
