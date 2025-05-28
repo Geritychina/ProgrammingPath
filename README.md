@@ -62,8 +62,6 @@ Design Patterns📙
 -Strategy
 
 -Observer
-Found in the DesignPatterns folder to demonstrate clean architecture and reusable code principles.
-
 
 Objectives 🎯
 --
