@@ -73,7 +73,13 @@ Develop a diverse portfolio of real-world projects to demonstrate practical skil
 Enhance expertise in web development, including API integration and the use of modern frameworks like React and other technologies.
 
 
-👉For React ❗ Don't forget to install node_modules locally! 🔺
+👉For React ❗
+--
+
+🔺Required files: <br>
+--
+node_modules
+
 --
 
 Made with love by Gergana ™
