@@ -4,8 +4,8 @@ This repository showcases my journey in programming.
 It includes a variety of projects developed during my university studies, self-learning exercises, and hands-on web development work with technologies like React.
 
 --
-
 📁 Repository Structure
+--
 
 | Folder                | Description                                                                                           |   |
 | --------------------- | ----------------------------------------------------------------------------------------------------- | - |
