@@ -76,7 +76,7 @@ Enhance expertise in web development, including API integration and the use of m
 👉For React ❗
 --
 
-🔺Required files: <br>
+🔺Required Files: <br>
 --
 node_modules
 
