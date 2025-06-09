@@ -79,7 +79,6 @@ Enhance expertise in web development, including API integration and the use of m
 🔺Required Files: <br>
 --
 node_modules
-
 --
 
 Made with love by Gergana ™
