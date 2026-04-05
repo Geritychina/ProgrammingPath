@@ -15,8 +15,6 @@ It includes a variety of projects developed during my university studies, self-l
 | `HumanResource`       | An application for managing human resources, including employee and department management.            |   |
 | `Chinese Restaurant`  | A simulation of a Chinese restaurant, incorporating menu management and order processing features.    |   |
 | `Fruitkha`            | A frontend website for an online fruit store, developed using HTML, CSS, and JavaScript.              |   |
-| `OMDB_Movie_App`      | A React-based application that utilizes the OMDB API to search and display movie information.         |   |
-| `Quote`               | A generator for inspirational quotes, with functionality to share quotes on social media platforms.   |   |
 | `Prodental`           | A website for a dental clinic, providing information about services and appointment scheduling.       |   |
 | `MAC_Linkedin`        | A custom LinkedIn profile template built with React, showcasing personal branding.                    |   |
 | `Nekmit`              | An experimental or educational project; specific purpose currently undefined.                         |   |
@@ -39,14 +37,11 @@ Languages
 Frameworks & Libraries
 --
 
-⚛️ React.js – A JavaScript library for building dynamic UIs; used in projects like OMDB Movie App, MAC_Linkedin, and Quote.
-
 🧱 .NET / .NET Core – Framework for building backend logic in enterprise-style applications such as InventoryManagement and HumanResource.
 
 🅱️ Bootstrap (optional) – For rapid UI development and responsive layouts (used in some frontend projects).
 
 APIs & Tools
-🎬 OMDB API – Integrated into OMDB_Movie_App to fetch movie data.
 
 🔧 Git – Used for version control and source tracking across all projects.
 
@@ -72,13 +67,5 @@ Develop a diverse portfolio of real-world projects to demonstrate practical skil
 
 Enhance expertise in web development, including API integration and the use of modern frameworks like React and other technologies.
 
-
-👉For React ❗
---
-
-🔺Required Files: <br>
---
-node_modules
---
 
 Made with love by Gergana ™
