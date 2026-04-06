@@ -65,7 +65,7 @@ Document and reflect on my progress in learning various programming languages an
 
 Develop a diverse portfolio of real-world projects to demonstrate practical skills.
 
-Enhance expertise in web development, including API integration and the use of modern frameworks like React and other technologies.
+Enhance expertise in web development, including API integration and the use of modern frameworks and other technologies.
 
 
 Made with love by Gergana ™
